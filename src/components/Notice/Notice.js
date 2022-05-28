@@ -17,7 +17,7 @@ const Notice = () => {
           <img className='link-item-img' src={arrow} alt={arrow} />
         </a>
         <a className='link-item' href='https://medium.com/econovation/'>
-          <img className='link-item-img' src={econo_logo} alt='medium_logo' />
+          <img className='link-item-img' src={medium_logo} alt='medium_logo' />
           <span className='link-text'>medium</span>
           <img className='link-item-img' src={arrow} alt='arrow' />
         </a>
