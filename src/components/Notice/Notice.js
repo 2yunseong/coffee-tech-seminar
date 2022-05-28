@@ -2,7 +2,6 @@ import arrow from "./img/arrow.png";
 import econo_logo from "./img/econo_logo.png";
 import github_logo from "./img/github_logo.png";
 import medium_logo from "./img/medium_logo.png";
-import background from "./img/background.png";
 
 import "./Notice.css";
 
